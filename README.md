@@ -2,6 +2,7 @@ A code of a simple calculator, run in terminal use language C.
 This is just for test how to use.
 
 <h2>Using the calculator</h2>
+
 ![image](https://user-images.githubusercontent.com/104505715/187094991-d0d6dc41-7361-4086-a328-fdf2f6332b33.png)
 after start running the code on terminal you gotta to type one number and send enter.
 
